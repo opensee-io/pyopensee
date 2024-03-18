@@ -1,0 +1,2 @@
+# pyopensee
+Opensee python client
